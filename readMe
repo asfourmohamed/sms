@@ -1,0 +1,9 @@
+this is modified smsc with those rules :
+
+number destination :
+xxxx1xxxxx : EXPIRED
+xxxx2xxxxx : DELETED
+xxxx3xxxxx : UNDELIVERABLE
+xxxx4xxxxx : ACCEPTED
+xxxx5xxxxx : REJECTED
+else : delivred 
